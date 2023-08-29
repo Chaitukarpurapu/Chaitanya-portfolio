@@ -9,7 +9,7 @@
   outline: none;
   border: none;
   text-transform: capitalize;
-  transition: all 0.2s linear;
+  transition: all 0.4s linear;
 }
 html {
   font-size: 62.5%;
@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: #404040;
   font-family: "Poppins", sans-serif;
 }
 
@@ -46,7 +46,7 @@ html::-webkit-scrollbar-thumb {
   top: 0;
   left: 0;
   z-index: 10000;
-  background: #e6eff1;
+  background: #a6e5f3;
   display: flex;
   align-items: center;
   justify-content: center;
